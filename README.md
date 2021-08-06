@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fedmarino
+- 👀 I’m interested in moving images, audio and archive
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: federicoemarino@gmail.com
